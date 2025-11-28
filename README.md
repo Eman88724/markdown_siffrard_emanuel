@@ -68,7 +68,7 @@ Explication: Je me sens plus à l’aise dans les taches créatives surtout le m
 
 •Mes aspirations: mieux comprendre les autres domaines dans le multimédia et aussi devenir plus polyvalent.
 
-##liens moodboard,carte mental et diagramme de flux
+##image du moodboard,carte mental et diagramme de flux
 ![carte_mentale_siffrard_emanuel](https://github.com/user-attachments/assets/49285a97-1d52-421a-b9fd-328e1e53f04b)
 ![diagramme_flux_siffrard_emanuel](https://github.com/user-attachments/assets/333e3167-7878-4121-9c5e-e13e722d2a31)
 ![moodboard_siffrard_emanuel](https://github.com/user-attachments/assets/efaa7bd1-3f86-41bc-a4ab-945e6a31a504)
